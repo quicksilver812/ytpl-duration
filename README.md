@@ -4,6 +4,10 @@ This is a simple web application built with Flask that calculates the total dura
 
 Technologies used: HTML, CSS, Javascript, Python
 
+## Screenshots
+
+![Home Screen](screenshots/homescreen2.png)
+
 ## Setup
 
 1. Clone the repository:
