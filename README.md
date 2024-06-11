@@ -1,6 +1,7 @@
 # YouTube Playlist Duration Calculator
 
 This is a simple web application built with Flask that calculates the total duration of a YouTube playlist.
+Technologies used: HTML, CSS, Javascript, Python
 
 ## Setup
 
