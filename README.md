@@ -6,7 +6,7 @@ Technologies used: HTML, CSS, Javascript, Python
 
 ## Screenshots
 
-![Home Screen](screenshots/homescreen2.png)
+![Home Screen](demo.png)
 
 ## Setup
 
